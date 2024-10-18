@@ -1,0 +1,6 @@
+pandas==2.2.2
+ipywidgets==7.6.3
+voila==0.5.8
+matplotlib==3.4.3  # Include if you're using it
+seaborn==0.12.1    # Include if you're using it
+plotly==5.6.0      # Include if you're using it
